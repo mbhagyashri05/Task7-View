@@ -1,0 +1,6 @@
+owner_id,owner_first_name,owner_last_name,pet_name,species,breed
+5,Tom,Maww,Tom,Dog,"German Shephard"
+6,Alex,Bud,Ally,Dog,Poodle
+5,Tom,Maww,Ted,Dog,"German Shephard"
+3,Emma,Strt,Almond,Dog,Labrador
+2,Simmy,Samson,Tuffy,Dog,Labrador
